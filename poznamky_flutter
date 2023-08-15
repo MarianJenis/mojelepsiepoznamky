@@ -1,0 +1,27 @@
+poznamky_flutter
+
+1. vsekto z myapp ctrlX do main funkcie
+    myapp je zbytocna, len returne MaterialApp
+
+Stateless
+    neobsahuje informaciu ktoru mozeme menit
+Stateful
+    obstahuje informaciu ktoru mozeme menit
+
+Scaffold
+    
+widgets
+    TextField()
+        obscureText - bodky namiesto textu
+        enableSuggestions
+        autocorrect
+        keyboardType
+            TextInputType.
+                emailAdress
+    TextButton()
+
+
+
+keyword
+    late
+        priradim hodnotu neskor, predtym ako bude premenna pouzita
